@@ -1,0 +1,5 @@
+Product: JetBrains IntelliJ IDEA Ultimate
+License Key: JETB-IDEA-XXXX-YYYY-ZZZZ-AAAA
+Expires: January 15, 2025
+Type: Annual Subscription
+User: Development Team
